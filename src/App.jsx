@@ -9,7 +9,7 @@ import TaskFormPage from "./pages/TaskFormPage";
 import ProfilePage from "./pages/ProfilePage";
 import HomePage from "./pages/HomePage";
 import ProtectedRoute from "./ProtectedRoute";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
