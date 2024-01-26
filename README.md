@@ -1,8 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>CRUD "TASK HARBOR" con JavaScript, React y Vite</h1>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>📃 Task Harbor es una aplicación web responsive (CRUD) que permite registrar un usuario en la base de datos, loguearse, y gestionar un listado de tareas a realizar💻</h3>
+<h4>Dentro de sus principales características se encuentran: </h4>
+<ul>
+  <li>Sistema de registro y logueo de usuarios en el sistema</li>
+  <li>Encriptación de contraseñas, implementación de tokens de seguridad para el logueo</li>
+  <li>Diseño Responsive</li>
+  <li>Listado de tareas pendientes</li>
+  <li>Agregar nuevas tareas a realizar con su respectiva fecha</li>
+  <li>Editar Tareas</li>
+  <li>Eliminar Tareas</li>
+  <li>Barra de navegación por la aplicación, con botón de login, logout, y register</li>
+</ul>
