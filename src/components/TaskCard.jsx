@@ -5,7 +5,7 @@ import utc from "dayjs/plugin/utc";
 days.extend(utc);
 
 function TaskCard({task}) {
-    const { deleteTask } = useTasks();
+    const { deleteTask } = useTasks(); 
   return (
     <div className="bg-zinc-800 max-w-md w-full p-10 rounded-md">
         <header className="flex justify-between">
